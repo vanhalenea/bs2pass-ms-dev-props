@@ -6,7 +6,7 @@ clients:
     route: '/starter/feature1'
     src: http://localhost:8080
   starter-client2:
-    element: starter-client
+    element: starter-client2
     loaded: false
     version: '1.0.0'
     route: '/starter/feature3'
