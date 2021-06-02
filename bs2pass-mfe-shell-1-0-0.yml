@@ -5,6 +5,6 @@ clients:
     version: '1.0.0'
     route: '/starter'
     src: http://localhost:8080
-initialRoute: /
+initialRoute: /starter/feature1
 outletId: mfe-content
 preload: false
