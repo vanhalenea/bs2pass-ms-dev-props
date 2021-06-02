@@ -3,8 +3,14 @@ clients:
     element: starter-client
     loaded: false
     version: '1.0.0'
-    route: '/starter'
+    route: '/starter/feature1'
     src: http://localhost:8080
+  starter-client2:
+    element: starter-client
+    loaded: false
+    version: '1.0.0'
+    route: '/starter/feature3'
+    src: http://localhost:8181
 initialRoute: /starter/feature1
 outletId: mfe-content
 preload: false
