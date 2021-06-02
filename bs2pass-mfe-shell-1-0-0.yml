@@ -9,7 +9,7 @@ clients:
     element: starter-client2
     loaded: false
     version: '1.0.0'
-    route: '/starter2'
+    route: '/modulo2'
     src: http://localhost:8181
 initialRoute: /starter/feature1
 outletId: mfe-content
