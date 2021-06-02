@@ -3,7 +3,7 @@ clients:
     element: starter-client
     loaded: false
     version: '1.0.0'
-    route: '/'
+    route: '/starter'
     src: http://localhost:8080
 initialRoute: /
 outletId: mfe-content
